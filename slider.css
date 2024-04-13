@@ -1,0 +1,27 @@
+.current-weather-icon {
+  max-width: unset;
+  min-height: 300px;
+}
+
+.current-weather-icon > * {
+  max-width: unset !important;
+}
+
+.slick-slider {
+}
+
+.slick-track {
+  /* display: flex; */
+  border: 2px solid blue;
+  max-width: unset !important;
+}
+
+.weather-slider-div {
+  /* width: 200px; */
+  height: 200px;
+  border: 1px solid black;
+  margin: 5px;
+
+  background-color: green;
+  /* min-width: 200px; */
+}
